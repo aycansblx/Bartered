@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39f73bdc80cd9493aaa112e1d813ed89, type: 3}
+  m_Name: SuperMarket
+  m_EditorClassIdentifier: 
+  NeedSentences: Do you want me to give these as always?
+  GreetingSentences:
+  - Hey neighbor, how are you!
+  ItemList:
+  - Newspaper
+  - Lemon
+  - Dog Food
+  - Detergent
+  - Chocolate Bars
+  - Batteries
+  - Deodorant
+  - Orange Juice
+  - Cheese
+  - Sausages
+  - Bread
+  - Milk
+  - Carrot
+  - Icecream
+  - Potato Chips
+  - Diaper
+  - Paper Towel
+  - Olive Oil
+  - Watermelon
+  ItemValues: 03000000050000001b0000002c000000060000001f0000002600000011000000230000002b00000004000000050000000c000000040000000b000000110000000e0000001c00000007000000

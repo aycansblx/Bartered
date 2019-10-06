@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39f73bdc80cd9493aaa112e1d813ed89, type: 3}
+  m_Name: DepartmentStore
+  m_EditorClassIdentifier: 
+  NeedSentences: 
+  GreetingSentences:
+  - Welcome sir, can i help you?
+  ItemList:
+  - Hat
+  - Shoes
+  - Socks
+  - Sweatshirt
+  - Candles
+  - Watch
+  - Parfume
+  - Cosmetics
+  - Underwears
+  - Rug
+  - Armchair
+  - Sofa
+  - Television
+  - Bed
+  - Game Console
+  - Camera
+  - Headset
+  - Gaming Keyboard
+  - Napkin
+  ItemValues: 1b00000021000000160000001a00000010000000400000003b0000002f00000018000000450000003300000039000000410000004100000035000000490000002a000000240000000c000000

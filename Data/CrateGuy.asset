@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39f73bdc80cd9493aaa112e1d813ed89, type: 3}
+  m_Name: CrateGuy
+  m_EditorClassIdentifier: 
+  NeedSentences: In the far corner, you see items. You can steal them if you want
+    :/
+  GreetingSentences:
+  - What do you want?
+  - Hmm where did i put that nacho scented socks
+  - Stay away from my precious... Now Speak!
+  ItemList:
+  - Filthy Cloth
+  - Garbage
+  - Empty Soda Can
+  - Long Wooden Stick
+  - Old Shirt
+  - Broken Chair
+  - Shiny Metal
+  - Canned Food
+  - Bitten Apple
+  - Horseshoe
+  - Scary Doll Head
+  - Toolbox
+  - Unity3D Licence
+  - Old Mobile Phone
+  - 2 Days Old French Fries
+  - K-Pop Poster
+  - Dusty Rug
+  - Prank Glasses
+  - Jar
+  ItemValues: 0400000001000000020000000600000005000000070000000f00000004000000020000000a0000000b00000014000000100000000c0000000200000001000000060000000d00000011000000

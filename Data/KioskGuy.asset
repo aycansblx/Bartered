@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39f73bdc80cd9493aaa112e1d813ed89, type: 3}
+  m_Name: KioskGuy
+  m_EditorClassIdentifier: 
+  NeedSentences: Let me offer you these, we can chat while eating
+  GreetingSentences:
+  - Hey friend, want something sweet?
+  - You know what ... Cotton candy is my favorite.
+  - I have the best job ever, delivering sweet snacks to people.
+  ItemList:
+  - Mint Candy
+  - Bubble Gum
+  - Cotton Candy
+  - Waffles
+  - Marmalade
+  - Hot Chocolate
+  - Toffee
+  - Marshmallow
+  - Coffee
+  - Lollypop
+  - Cookies
+  - Donuts
+  - Cheesecake
+  - Apple Pie
+  - Honey
+  - Croissant
+  - Pumpkin Pie
+  - Lemonade
+  - Mocha
+  ItemValues: 03000000030000000500000007000000110000000c0000001a0000001f0000000b00000006000000200000002c0000002200000025000000180000001600000029000000070000000e000000
